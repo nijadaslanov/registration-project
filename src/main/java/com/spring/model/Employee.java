@@ -12,7 +12,7 @@ import java.util.Locale;
 @ToString
 public class Employee {
 
-    private String firstname;
+    private String firstName;
     private String lastName;
     private LocalDate birthday;
     private String email;
